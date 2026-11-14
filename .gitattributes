@@ -1,0 +1,3 @@
+*.enc text eol=lf
+*.pub text eol=lf
+*.json text eol=lf
